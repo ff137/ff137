@@ -12,7 +12,7 @@ I've worked on a variety of projects, including:
 - **XDS Credit Scoring System**: Redesigned a credit scoring system for a leading credit bureau in South Africa, transitioning from an outdated SAS and SQL system to a scalable Scala and Spark solution
 - **ID Scan**: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and VCs; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models, and OpenCV
 
-My main programming languages are **Scala** and **Python**.
+Among others. My main programming languages are **Scala** and **Python**.
 
 ## 🌱 What I'm Working On
 
