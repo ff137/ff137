@@ -16,7 +16,7 @@ Among others. My main programming languages are **Scala** and **Python**.
 
 ## 🌱 What I'm Working On
 
-Currently, I'm exploring the world of Self Sovereign Identity and DIDComm protocols. In my spare time, I'm working on personal projects like forecasting cryptocurrency prices.
+Currently, I'm exploring the world of Self-Sovereign Identity (SSI) and DIDComm protocols. In my spare time, I'm working on personal projects like forecasting cryptocurrency prices.
 
 ## 📚 Publications
 
