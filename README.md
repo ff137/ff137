@@ -25,7 +25,7 @@ Currently, I'm exploring the world of Self-Sovereign Identity (SSI) and DIDComm 
 
 ## 🎨 My Interests
 
-As a polymath, I have diverse interests in various fields such as mathematics, physics, biology, astronomy, astrophysics, philosophy, and psychology. When I'm not working, I enjoy listening to a wide range of music, exercising, playing chess, and whatever else may cross my path!
+I'm a self-ascribed polymath. Diverse interests in various fields such as mathematics, number theory, physics, biology, astronomy, philosophy, psychology, and everything in between. When I'm not working, I enjoy reading, exercising, listening to music, playing chess, and exploring nature!
 
 ## 📬 Get in Touch
 
