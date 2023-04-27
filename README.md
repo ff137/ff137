@@ -7,16 +7,16 @@ I'm an M.Eng (E&E) graduate with specialization in telecommunications and antenn
 I've worked on a variety of projects, including:
 
 - **Life Healthcare**: Statistical analysis of medical items used in their operations
-- **Sasol**: Data analysis and forecasting of petrol consumption; designed a neural network in R and later implemented in Java with DeepLearning4J
-- **Retail Market Basket Analysis**: Scalable solutions for finding frequent patterns and item associations in large datasets for Pepkor, The Foschini Group, and Kaap Agri; additional analysis with weather data correlation
-- **XDS Credit Scoring System**: Redesigned a credit scoring system for a leading credit bureau in South Africa, transitioning from an outdated SAS and SQL system to a scalable Scala and Spark solution
-- **ID Scan**: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and VCs; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models, and OpenCV
+- **Sasol**: Data analysis and forecasting of petrol consumption with neural networks
+- **Retail Market Basket Analysis**: Scalable solutions for finding frequent patterns and item associations in very large datasets for Pepkor, The Foschini Group, and Kaap Agri; included weather data correlation
+- **XDS Credit Scoring System**: Redesigned a credit scoring system for a leading credit bureau in South Africa, migrating from an outdated SAS and SQL system to a scalable Scala and Spark solution
+- **ID Scan**: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and Verified Credentials; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models and OpenCV
 
 Among others. My main programming languages are **Scala** and **Python**.
 
 ## 🌱 What I'm Working On
 
-Currently, I'm exploring the world of Self-Sovereign Identity (SSI) and DIDComm protocols. In my spare time, I'm working on personal projects like forecasting cryptocurrency prices.
+Currently, I'm exploring the world of Self-Sovereign Identity (SSI) and DIDComm protocols. In my spare time, I'm working on hobby projects like forecasting cryptocurrency prices.
 
 ## 🎨 My Interests
 
