@@ -18,14 +18,14 @@ Among others. My main programming languages are **Scala** and **Python**.
 
 Currently, I'm exploring the world of Self-Sovereign Identity (SSI) and DIDComm protocols. In my spare time, I'm working on personal projects like forecasting cryptocurrency prices.
 
+## 🎨 My Interests
+
+I'm a self-ascribed polymath. Diverse interests in various fields such as mathematics, number theory, physics, biology, astronomy, philosophy, psychology, and everything in between. When I'm not working, I enjoy reading, exercising, listening to music, playing chess, and exploring nature!
+
 ## 📚 Publications
 
 - **Master's Thesis**: *Wideband Direction Finding of RFI for MeerKAT* ([link](https://scholar.sun.ac.za/handle/10019.1/101179))
   - Theoretical design, EM simulations, manufacturing (using 3D-printed technology), and field measurements of a wideband, 4-antenna system for direction finding of electromagnetic interference; to protect MeerKAT / SKA radio-astronomy equipment.
-
-## 🎨 My Interests
-
-I'm a self-ascribed polymath. Diverse interests in various fields such as mathematics, number theory, physics, biology, astronomy, philosophy, psychology, and everything in between. When I'm not working, I enjoy reading, exercising, listening to music, playing chess, and exploring nature!
 
 ## 📬 Get in Touch
 
