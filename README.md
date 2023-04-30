@@ -16,7 +16,7 @@ Among others. My main programming languages are **Scala** and **Python**.
 
 ## 🌱 What I'm Working On
 
-Exploring the world of Self-Sovereign Identity (SSI) and DIDComm protocols. Hobby projects involve deep learning applied to cryptocurrency forecasting, with the long goal to do any, abstract supply/demand forecasting.
+Exploring the world of Self-Sovereign Identity (SSI) and DIDComm protocols. Hobby projects involve deep learning applied to cryptocurrency forecasting, and predictive modeling for complex data structures.
 
 ## 🎨 My Interests
 
