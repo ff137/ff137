@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mourits de Beer
 
-I'm an M.Eng (E&E) graduate with specialization in telecommunications and antenna design. Currently working as a data scientist, big data engineer, and AI engineer. I'm passionate about leveraging technology to solve real-world problems and make a positive impact.
+I'm an M.Eng (E&E) graduate with specialization in telecommunications and antenna design. Experienced as a data scientist, big data engineer, and AI engineer. I'm passionate about leveraging technology to solve real-world problems and make a positive impact.
 
 ## 🚀 My Experience
 
