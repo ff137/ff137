@@ -4,17 +4,17 @@ I'm an M.Eng (E&E) graduate with specialization in telecommunications and antenn
 
 ## 🚀 My Experience
 
-For academic research I designed a wideband direction finding system for the SKA's precursor project, MeerKAT. 
+In academia I designed and built a direction finding antenna system intended for the SKA's precursor project, MeerKAT, laying out theory for operating over the very wide bandwidth of the telescopes, to detect and mitigate noise that would interfere with their radioastronomy measurements, using a novel 3D-printed antenna design. That was pretty cool.
 
-Professionally I've worked on a variety of projects, including:
+Changing gears I then worked professionally on a variety of data science projects, including:
 
-- **Life Healthcare**: Statistical analysis of medical items used in their operations
-- **Sasol**: Data analysis and forecasting of petrol consumption with neural networks
-- **Retail Market Basket Analysis**: Scalable solutions for finding frequent patterns and item associations in very large datasets for Pepkor, The Foschini Group, and Kaap Agri; included weather data correlation
-- **XDS Credit Scoring System**: Redesigned a credit scoring system for a leading credit bureau in South Africa, migrating from an outdated SAS and SQL system to a scalable Scala and Spark solution
-- **ID Scan**: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and Verified Credentials; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models and OpenCV
+- Life Healthcare: Statistical analysis of medical items used in their operations
+- Sasol: Data analysis and forecasting of petrol consumption with neural networks
+- Retail Market Basket Analysis: Scalable solutions for finding frequent patterns and item associations in very large datasets for Pepkor, The Foschini Group, and Kaap Agri; included weather data correlation
+- XDS Credit Scoring System: Redesigned a credit scoring system for a leading credit bureau in South Africa, migrating from an outdated SAS and SQL system to a scalable Scala and Spark solution
+- ID Scan: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and Verified Credentials; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models and OpenCV
 
-Among others. My main programming languages are **Scala** and **Python**.
+Among many other projects. My main programming languages are **Scala** and **Python**.
 
 ## 🌱 What I'm Working On
 
