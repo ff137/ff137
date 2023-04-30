@@ -4,7 +4,7 @@ I'm an M.Eng (E&E) graduate with specialization in telecommunications and antenn
 
 ## 🚀 My Experience
 
-I've worked on a variety of projects, including:
+With academic research I designed a wideband direction finding system for the SKA's precursor project, MeerKAT. I've worked on a variety of projects, including:
 
 - **Life Healthcare**: Statistical analysis of medical items used in their operations
 - **Sasol**: Data analysis and forecasting of petrol consumption with neural networks
@@ -20,7 +20,7 @@ Currently, I'm exploring the world of Self-Sovereign Identity (SSI) and DIDComm 
 
 ## 🎨 My Interests
 
-I'm a self-ascribed polymath. Diverse interests in various fields such as mathematics, number theory, physics, biology, astronomy, philosophy, psychology, and everything in between. When I'm not working, I enjoy reading, exercising, listening to music, playing chess, and exploring nature!
+I'm a self-ascribed polymath and I value intellectual curiosity and making time for new viewpoints. Primary interests have been in the abstract world: mathematics, number theory, the history of philosophy and religions ... but, by virtue of popular demand I've spent as much time learning about physics, quantum electromagnetics, evolutionary psychology, and deep learning. These are a view of my favourite things. Then, I like to write code that solves big problems. Someone's gotta do it. And, when I'm not working, I like to spend time learning something new, exercising or playing chess or exploring the world around me!
 
 ## 📚 Publications
 
