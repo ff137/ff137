@@ -5,6 +5,7 @@ I'm an M.Eng (E&E) graduate with specialization in telecommunications and antenn
 ## 🚀 My Experience
 
 For academic research I designed a wideband direction finding system for the SKA's precursor project, MeerKAT. 
+
 Professionally I've worked on a variety of projects, including:
 
 - **Life Healthcare**: Statistical analysis of medical items used in their operations
