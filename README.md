@@ -22,7 +22,7 @@ Exploring the world of Self-Sovereign Identity (SSI) and Decentralized Web Nodes
 
 ## 🎨 My Interests
 
-I'm a self-ascribed polymath and I value intellectual curiosity and making time for new viewpoints. Primary interests have always been in the abstract world, of mathematics, number theory, the history of philosophy. But, by virtue of popular demand, I've spent as much time learning about physics, quantum electromagnetics, evolutionary psychology, and deep learning. These are a view of my favourite things. To pay the bills, I like to write code that solves big problems. Someone's gotta do it. And, when I'm not working, I like to spend time learning something new, exercising, playing chess or exploring the world around me!
+I'm a self-ascribed polymath and I value intellectual curiosity and making time for new viewpoints. Primary interests have always been in the abstract world, of mathematics, number theory, the history of philosophy. But, by virtue of popular demand, I've spent as much time learning about physics... programming... evolutionary psychology. These are a view of my favourite things. To pay the bills, I write code that solves big problems. When I'm not working, I'm probably learning something new.
 
 ## 📚 Publications
 
