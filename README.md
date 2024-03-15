@@ -4,7 +4,7 @@ I'm an M.Eng (E&E) specialized in telecommunications and antenna design. Experie
 
 ## 🚀 My Experience
 
-In academia I designed and built a direction finding antenna system intended for the Square Kilometre Array (SKA) precursor project, MeerKAT. The challenge was to operate over the very wide bandwidth of the telescopes, and detect electromagnetic noise that would interfere with their radioastronomy measurements. This involved a unique antenna design that was made possible with a 3D-printed antenna design and plenty of computer simulation, with the cherry on the cake being a novel direction finding algorithm that allowed it to work over a very wide band. That was pretty fun!
+In academia I designed and built a direction finding antenna system intended for the Square Kilometre Array (SKA) precursor project, MeerKAT. The challenge was to operate over the very wide bandwidth of the telescopes, and detect electromagnetic noise that would interfere with their radioastronomy measurements. This involved a unique antenna design, made possible with 3D-printing and plenty of computer simulation, with the cherry on the cake being a novel direction finding algorithm that allowed it to work over a very wide band. That was pretty fun!
 
 Changing gears I then worked professionally on a variety of software and data science projects, including:
 
