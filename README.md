@@ -1,3 +1,5 @@
+![ff137's GitHub stats](https://github-readme-stats.vercel.app/api?username=ff137&disable_animations=true&show_icons=true&show=prs_merged,reviews&include_all_commits=true&bg_color=00000000&hide=stars&rank_icon=github)
+
 # Hi there! 👋 I'm Mourits de Beer
 
 I'm an M.Eng (E&E) specialized in telecommunications and antenna design. Experienced as a data scientist, big data engineer, AI engineer, and senior software engineer. I'm passionate about leveraging technology to solve real-world problems and make a positive impact.
@@ -13,7 +15,7 @@ Changing gears I then worked professionally on a variety of software and data sc
 - Retail Market Basket Analysis: Scalable solutions for finding frequent patterns and item associations in very large datasets for Pepkor, The Foschini Group, and Kaap Agri; included weather data correlation
 - XDS Credit Scoring System: Redesigned a credit scoring system for a leading credit bureau in South Africa, migrating from a ridiculously outdated and unmaintainable SAS and SQL system, to a scalable Scala and Spark solution
 - ID Scan: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and Verified Credentials; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models and OpenCV
-- and of course many more projects.
+- and many more projects.
 
 My main programming languages are **Scala** and **Python**
 
