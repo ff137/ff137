@@ -17,15 +17,15 @@ Changing gears I then worked professionally on a variety of software and data sc
 - ID Scan: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and Verified Credentials; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models and OpenCV
 - and many more projects.
 
-My main programming languages are **Scala** and **Python**
+My main programming languages are **Scala** and **Python**.
 
 ## 🌱 What I'm Working On
 
-Changing the world of Self-Sovereign Identity (SSI) by leading development in South Africa's flagship Digital Identity company, DIDx
+Changing the world of Self-Sovereign Identity (SSI) by leading development in South Africa's flagship Digital Identity company, DIDx.
 
 ## 🎨 My Interests
 
-I'm a self-ascribed polymath and I value intellectual curiosity and making time for exploring new ideas. Primary interests have always been in the abstract world of mathematics, number theory, philosophy, etc. But by virtue of necessity and popular demand, I've been pulled into the real world and spent far more time learning physics, engineering, programming, and other obscure forms of modern magick.
+I'm a self-ascribed polymath and I value intellectual curiosity and making time for exploring new ideas. Primary interests have always been in the abstract world of mathematics, number theory, philosophy, etc. But by virtue of popular demand, I've been pulled into the real world and spent far more time learning physics, engineering, programming, and other obscure forms of modern alchemy.
 
 ## 📚 Publications
 
