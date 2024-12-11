@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Mourits de Beer
 
-I'm the Chief Technology Officer for South Africa's flagship Digital Identity company: DIDx!
+I'm a lead technical developer for South Africa's flagship Digital Identity company: DIDx!
 
 I have an M.Eng (E&E), with specialisation in telecomms and antenna design, with professional experience as a data scientist, big data engineer, AI engineer, and senior software engineer. I'm passionate about leveraging technology to solve real-world problems and make a positive impact.
 
