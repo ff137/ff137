@@ -1,4 +1,4 @@
-![ff137's GitHub stats](https://github-readme-stats.vercel.app/api?username=ff137&disable_animations=true&show_icons=true&show=prs_merged,reviews&include_all_commits=true&bg_color=00000000&hide=stars&rank_icon=github)
+![ff137's GitHub stats](https://github-readme-stats.vercel.app/api?username=ff137&disable_animations=true&show_icons=true&show=prs_merged,reviews&include_all_commits=true&bg_color=00000000&hide=stars)
 
 # Hi there! 👋 I'm Mourits de Beer
 
