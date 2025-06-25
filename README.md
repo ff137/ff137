@@ -19,7 +19,7 @@ Changing gears I then worked professionally on a variety of software and data sc
 - ID Scan: Full pipeline design including image normalization, OCR, barcode reading, facial recognition, and integration with the Sovrin network for SSI and Verified Credentials; developed liveness check capabilities and advanced computer vision applications using Detectron2, custom Mask-RCNN models and OpenCV
 - and more!
 
-My main programming languages are **Scala** and **Python**.
+My main programming languages are **Python** and **Scala**, with experience in C, Java, Kotlin, Rust, and TypeScript.
 
 ## 🎨 My Interests
 
